@@ -1,2 +1,2 @@
-1.Supervised learning-Linear and logistic
+1.Supervised learning-Linear and logistic Regression,
 Dataset:http://bit.ly/w-data
